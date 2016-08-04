@@ -4,7 +4,7 @@
         <description><![CDATA[Testing_fun]]></description>
         <link>https://thegrid.ai/testing-fun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 11:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 11:42:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-fun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d709cc-ceb8-46b5-b148-68d0ada17fc5.jpg</link>
             <guid isPermaLink="false">bb9613ea-c759-48a7-abe7-4a1fb68bce0a</guid>
             <pubDate>Thu, 04 Aug 2016 11:41:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.samsung.com/uk/consumer/mobile-devices/smartphones/galaxy-note/galaxy-note7/?cid=uk_ppc_google_brand+product:core-exact-evaluate_brand+product_samsunggalaxynote7_exact-1559134823_42577&ef_id=V6BWsQAABLmo0Ivf:20160804113118:s</p>]]></description>
+            <link>https://thegrid.ai/testing-fun/httpwwwsamsungcomukconsumermobile-devicessmartphone/index.html</link>
+            <guid isPermaLink="false">82741e86-7639-410d-91c2-580362e7d5a8</guid>
+            <pubDate>Thu, 04 Aug 2016 11:42:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
