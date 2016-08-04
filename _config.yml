@@ -1,0 +1,14 @@
+name: Testing_fun
+layout_spectrum: 0.7831537173483104
+typography_spectrum: 0.43760891259594625
+color:
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.22470450547457455
+  lightness: 0.42113512075073
+  saturation: 0.9715199728304265
+  rhythmicContrast: 0.7327984675504917
